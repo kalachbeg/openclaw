@@ -1,13 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420" role="img" aria-label="GoHome Roborock status output">
-  <rect width="800" height="420" rx="24" fill="#0b0f14" />
-  <rect x="24" y="24" width="752" height="372" rx="18" fill="#111827" stroke="#263246" stroke-width="2" />
-  <text x="48" y="72" fill="#9ca3af" font-size="18" font-family="Fragment Mono, ui-monospace, SFMono-Regular, Menlo, monospace">
-    <tspan x="48" dy="0">$ gohome roborock status --device "Living Room"</tspan>
-    <tspan x="48" dy="30" fill="#e5e7eb">Device: Roborock Q Revo</tspan>
-    <tspan x="48" dy="28" fill="#e5e7eb">State: cleaning (zone)</tspan>
-    <tspan x="48" dy="28" fill="#e5e7eb">Battery: 78%</tspan>
-    <tspan x="48" dy="28" fill="#e5e7eb">Dustbin: 42%</tspan>
-    <tspan x="48" dy="28" fill="#e5e7eb">Water tank: 61%</tspan>
-    <tspan x="48" dy="28" fill="#e5e7eb">Last clean: 2026-01-06 19:42</tspan>
-  </text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" aria-label="GoHome Roborock status output" role="img" viewBox="0 0 800 420"><rect width="800" height="420" fill="#0b0f14" rx="24"/><rect width="752" height="372" x="24" y="24" fill="#111827" stroke="#263246" stroke-width="2" rx="18"/><text x="48" y="72" fill="#9ca3af" font-family="Fragment Mono, ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18"><tspan x="48" dy="0">$ gohome roborock status --device &quot;Living Room&quot;</tspan> <tspan x="48" fill="#e5e7eb" dy="30">Device: Roborock Q Revo</tspan> <tspan x="48" fill="#e5e7eb" dy="28">State: cleaning (zone)</tspan> <tspan x="48" fill="#e5e7eb" dy="28">Battery: 78%</tspan> <tspan x="48" fill="#e5e7eb" dy="28">Dustbin: 42%</tspan> <tspan x="48" fill="#e5e7eb" dy="28">Water tank: 61%</tspan> <tspan x="48" fill="#e5e7eb" dy="28">Last clean: 2026-01-06 19:42</tspan></text></svg>
